@@ -1,0 +1,437 @@
+Leesa                         EATEN                         Underworld                    Will rule the kingdom
+Mallissa                      SAVED                         Library                       Can cook
+Annelise                      INJURED                       Dungeon                       Programmer
+Carlynne                      FIGHTS FOR LIFE               Dungeon                       None
+Eadith                        SLAYED THE DRAGON HERSELF     Pub                           Will rule the kingdom
+Malory                        IN PANIC                      Abandoned Prison              Pretty
+Johannah                      IN PANIC                      Dark Cave                     Can cook
+Farah                         INJURED                       Abandoned Prison              Sassy
+Nichol                        BORED                         Dungeon                       Can cook
+Cathie                        IN PANIC                      Dungeon                       Will rule the kingdom
+Elberta                       INJURED                       Ancient Ruins                 Will rule the kingdom
+Leonanie                      IN PANIC                      Ancient Ruins                 None
+Jeanette                      INJURED                       High Mountain                 Afraid of spiders
+Clare                         INJURED                       Ancient Ruins                 Afraid of spiders
+Caron                         BORED                         Old Shack                     Likes books
+Calli                         IN PANIC                      High Mountain                 Programmer
+Judith                        INJURED                       Old Shack                     Likes books
+Leyla                         FIGHTS FOR LIFE               Abandoned Prison              Likes books
+Ema                           IN PANIC                      Dungeon                       Pretty
+Edy                           IN PANIC                      Dungeon                       Pretty
+Devi                          SLAYED THE DRAGON HERSELF     Office                        Pretty
+Caty                          IN PANIC                      Old Shack                     None
+Kerrill                       INJURED                       Dungeon                       Will rule the kingdom
+Lian                          SLAYED THE DRAGON HERSELF     Pub                           Likes books
+Chastity                      FIGHTS FOR LIFE               Dark Cave                     Pretty
+Elfie                         BORED                         Dark Cave                     Will rule the kingdom
+Blinny                        SAVED                         Town Hall                     Sassy
+Lillian                       FIGHTS FOR LIFE               Misty Swamp                   Afraid of spiders
+Diana                         SLAYED THE DRAGON HERSELF     Pub                           Programmer
+Deeann                        IN PANIC                      Ancient Ruins                 Will rule the kingdom
+Brianna                       SAVED                         Office                        Sassy
+Minnie                        FIGHTS FOR LIFE               Dungeon                       Will rule the kingdom
+Tommie                        FIGHTS FOR LIFE               Abandoned Prison              Likes books
+Ophelie                       BORED                         Dark Cave                     Will rule the kingdom
+Modestia                      IN PANIC                      Dungeon                       Likes books
+Marielle                      INJURED                       Old Shack                     Likes books
+Atlanta                       BORED                         Abandoned Prison              None
+Karilynn                      FIGHTS FOR LIFE               Abandoned Prison              Can cook
+Etti                          EATEN                         Underworld                    Pretty
+Kate                          BORED                         Ancient Ruins                 Afraid of spiders
+Alikee                        SAVED                         Castle                        Afraid of spiders
+Kattie                        BORED                         Misty Swamp                   Will rule the kingdom
+Angil                         INJURED                       Dark Cave                     Can cook
+Christalle                    BORED                         Old Shack                     Can cook
+Margaretha                    SAVED                         Office                        Programmer
+Johanna                       INJURED                       Ancient Ruins                 Afraid of spiders
+Karlyn                        EATEN                         Underworld                    Pretty
+Miguelita                     BORED                         High Mountain                 None
+Joyous                        IN PANIC                      Old Shack                     Pretty
+Carmita                       IN PANIC                      Dark Cave                     Likes books
+Danila                        INJURED                       High Mountain                 Afraid of spiders
+Aigneis                       IN PANIC                      Ancient Ruins                 Afraid of spiders
+Mariana                       EATEN                         Underworld                    Afraid of spiders
+Fey                           IN PANIC                      High Mountain                 Afraid of spiders
+Jada                          INJURED                       Abandoned Prison              Pretty
+Nichole                       INJURED                       Misty Swamp                   Will rule the kingdom
+Latashia                      FIGHTS FOR LIFE               Misty Swamp                   None
+Katherine                     SAVED                         Office                        Can cook
+Merci                         FIGHTS FOR LIFE               Misty Swamp                   Pretty
+Meggy                         INJURED                       Dark Cave                     None
+Abbie                         EATEN                         Underworld                    Sassy
+Amber                         IN PANIC                      High Mountain                 Sassy
+Myrlene                       INJURED                       Abandoned Prison              Afraid of spiders
+Valina                        IN PANIC                      Dark Cave                     Sassy
+Jocelyne                      SAVED                         Castle                        Likes books
+Ansley                        IN PANIC                      Old Shack                     Can cook
+Rene                          FIGHTS FOR LIFE               Abandoned Prison              Programmer
+Gerrie                        SAVED                         Castle                        None
+Hanny                         BORED                         High Mountain                 Sassy
+Krissie                       IN PANIC                      Dungeon                       Can cook
+Floris                        INJURED                       Dungeon                       None
+Revkah                        EATEN                         Heaven                        Will rule the kingdom
+Nedda                         SLAYED THE DRAGON HERSELF     Pub                           None
+Kelila                        IN PANIC                      Misty Swamp                   None
+Eleen                         IN PANIC                      Ancient Ruins                 Can cook
+Vita                          EATEN                         Heaven                        Afraid of spiders
+Trudey                        EATEN                         Heaven                        Pretty
+Phillida                      SLAYED THE DRAGON HERSELF     Library                       Can cook
+Loren                         SLAYED THE DRAGON HERSELF     Town Hall                     Programmer
+Tuesday                       SLAYED THE DRAGON HERSELF     Pub                           Programmer
+Dorthy                        INJURED                       Ancient Ruins                 Sassy
+Florette                      BORED                         Old Shack                     None
+Milena                        FIGHTS FOR LIFE               Dungeon                       Afraid of spiders
+Elisabet                      IN PANIC                      Dungeon                       Sassy
+Giorgia                       BORED                         High Mountain                 Likes books
+Rasla                         SLAYED THE DRAGON HERSELF     Library                       Will rule the kingdom
+Ermengarde                    EATEN                         Heaven                        Afraid of spiders
+Marni                         SLAYED THE DRAGON HERSELF     Castle                        Pretty
+Clary                         SAVED                         Office                        Likes books
+Jerrylee                      FIGHTS FOR LIFE               High Mountain                 Can cook
+Stesha                        EATEN                         Underworld                    Can cook
+Vinita                        BORED                         Misty Swamp                   Afraid of spiders
+Angelina                      SLAYED THE DRAGON HERSELF     Library                       Pretty
+Aloisia                       BORED                         Old Shack                     Pretty
+Winna                         SAVED                         Pub                           Pretty
+Alysia                        FIGHTS FOR LIFE               Ancient Ruins                 Afraid of spiders
+Daveta                        SLAYED THE DRAGON HERSELF     Castle                        Afraid of spiders
+Maridel                       FIGHTS FOR LIFE               Dungeon                       Can cook
+Robbie                        IN PANIC                      Misty Swamp                   Sassy
+Carolynn                      EATEN                         Heaven                        Likes books
+Raye                          INJURED                       Old Shack                     Sassy
+Agnola                        SLAYED THE DRAGON HERSELF     Castle                        Likes books
+Sibylla                       SLAYED THE DRAGON HERSELF     Castle                        Programmer
+Sherill                       FIGHTS FOR LIFE               Misty Swamp                   Can cook
+Wynne                         SAVED                         Library                       Will rule the kingdom
+Octavia                       BORED                         Dark Cave                     Likes books
+Mercie                        EATEN                         Underworld                    Can cook
+Robinet                       SAVED                         Library                       Programmer
+Betta                         INJURED                       Dungeon                       Will rule the kingdom
+Kathi                         SAVED                         Library                       Likes books
+Libby                         SLAYED THE DRAGON HERSELF     Town Hall                     Afraid of spiders
+Ellette                       FIGHTS FOR LIFE               Misty Swamp                   Pretty
+Novelia                       SAVED                         Pub                           Sassy
+Myrtle                        FIGHTS FOR LIFE               Dark Cave                     Sassy
+Tiphanie                      EATEN                         Heaven                        Will rule the kingdom
+Melinde                       SAVED                         Castle                        Afraid of spiders
+Edita                         SAVED                         Pub                           None
+Annalise                      FIGHTS FOR LIFE               High Mountain                 Sassy
+Astrix                        SLAYED THE DRAGON HERSELF     Library                       Will rule the kingdom
+Evangelia                     SLAYED THE DRAGON HERSELF     Library                       Programmer
+Charlena                      IN PANIC                      High Mountain                 None
+Ernaline                      SLAYED THE DRAGON HERSELF     Library                       Afraid of spiders
+Cosette                       EATEN                         Underworld                    Will rule the kingdom
+Giacinta                      INJURED                       Ancient Ruins                 Programmer
+Erika                         INJURED                       Ancient Ruins                 Likes books
+Corette                       IN PANIC                      Dungeon                       Will rule the kingdom
+Rhianon                       IN PANIC                      Old Shack                     Afraid of spiders
+Dorree                        SAVED                         Castle                        Will rule the kingdom
+Miquela                       FIGHTS FOR LIFE               Dark Cave                     Programmer
+Loree                         BORED                         Old Shack                     Will rule the kingdom
+Rosmunda                      FIGHTS FOR LIFE               Abandoned Prison              Sassy
+Annalise                      IN PANIC                      Abandoned Prison              Sassy
+Mala                          SLAYED THE DRAGON HERSELF     Library                       Likes books
+Tedi                          IN PANIC                      Ancient Ruins                 Afraid of spiders
+Teressa                       EATEN                         Underworld                    Sassy
+Aaren                         BORED                         Old Shack                     Programmer
+Lorenza                       IN PANIC                      Dungeon                       Will rule the kingdom
+Esmaria                       BORED                         Dungeon                       Programmer
+Lora                          EATEN                         Underworld                    Can cook
+Tabbatha                      IN PANIC                      Misty Swamp                   Afraid of spiders
+Chastity                      INJURED                       Dark Cave                     Afraid of spiders
+Martguerita                   EATEN                         Heaven                        Programmer
+Guenna                        BORED                         Abandoned Prison              Will rule the kingdom
+Sigrid                        IN PANIC                      Dark Cave                     Can cook
+Maureen                       IN PANIC                      Dungeon                       Will rule the kingdom
+Justine                       SAVED                         Town Hall                     Sassy
+Kay                           IN PANIC                      High Mountain                 Programmer
+Darrelle                      EATEN                         Underworld                    Can cook
+Lina                          SLAYED THE DRAGON HERSELF     Town Hall                     Afraid of spiders
+Sherline                      SAVED                         Office                        Likes books
+Anallise                      INJURED                       Old Shack                     Programmer
+Prissie                       BORED                         High Mountain                 Afraid of spiders
+Melli                         BORED                         Misty Swamp                   Afraid of spiders
+Sophie                        EATEN                         Heaven                        Can cook
+Julienne                      INJURED                       Old Shack                     Will rule the kingdom
+Loria                         FIGHTS FOR LIFE               Dark Cave                     Likes books
+Martita                       BORED                         Dark Cave                     None
+Rhody                         IN PANIC                      High Mountain                 Sassy
+Linea                         SAVED                         Town Hall                     Sassy
+Evvy                          BORED                         Old Shack                     Afraid of spiders
+Wilie                         INJURED                       Dark Cave                     Programmer
+Selia                         IN PANIC                      Ancient Ruins                 Likes books
+Viole                         INJURED                       Dark Cave                     Programmer
+Beatriz                       FIGHTS FOR LIFE               Dungeon                       Programmer
+Meg                           IN PANIC                      Old Shack                     Pretty
+Velma                         SLAYED THE DRAGON HERSELF     Pub                           Afraid of spiders
+Shanie                        EATEN                         Heaven                        Can cook
+Shelbi                        SLAYED THE DRAGON HERSELF     Castle                        Programmer
+Harli                         BORED                         Dark Cave                     Can cook
+Blythe                        BORED                         Misty Swamp                   Afraid of spiders
+Wendye                        IN PANIC                      High Mountain                 Will rule the kingdom
+Shanna                        SAVED                         Castle                        Sassy
+Siusan                        EATEN                         Underworld                    Sassy
+Bobbye                        SAVED                         Library                       None
+Wandie                        EATEN                         Heaven                        Will rule the kingdom
+Karilynn                      EATEN                         Underworld                    Can cook
+Chad                          SLAYED THE DRAGON HERSELF     Castle                        None
+Gigi                          IN PANIC                      High Mountain                 Pretty
+Goldi                         FIGHTS FOR LIFE               Dungeon                       Sassy
+Molly                         SLAYED THE DRAGON HERSELF     Office                        Programmer
+Barbette                      SAVED                         Library                       Will rule the kingdom
+Charin                        INJURED                       Dark Cave                     Programmer
+Ulla                          EATEN                         Underworld                    Can cook
+Moyna                         SAVED                         Pub                           Pretty
+Jeanne                        IN PANIC                      Abandoned Prison              Likes books
+Aila                          BORED                         High Mountain                 None
+Ilka                          SLAYED THE DRAGON HERSELF     Pub                           Sassy
+Joelie                        IN PANIC                      Ancient Ruins                 Pretty
+Dolores                       SLAYED THE DRAGON HERSELF     Pub                           Will rule the kingdom
+Rosemaria                     SLAYED THE DRAGON HERSELF     Castle                        Will rule the kingdom
+Glynis                        IN PANIC                      Ancient Ruins                 Sassy
+Drusy                         INJURED                       Misty Swamp                   None
+Abigale                       FIGHTS FOR LIFE               Dark Cave                     Pretty
+Krysta                        EATEN                         Underworld                    None
+Olenka                        IN PANIC                      Old Shack                     Afraid of spiders
+Adiana                        IN PANIC                      Ancient Ruins                 Pretty
+Fernandina                    IN PANIC                      High Mountain                 Will rule the kingdom
+Lucky                         EATEN                         Underworld                    Programmer
+Hettie                        INJURED                       Ancient Ruins                 Afraid of spiders
+Sissy                         FIGHTS FOR LIFE               High Mountain                 Sassy
+Dorothee                      IN PANIC                      Ancient Ruins                 Sassy
+Farah                         INJURED                       Old Shack                     Can cook
+Rey                           IN PANIC                      Dungeon                       None
+Lisha                         FIGHTS FOR LIFE               High Mountain                 Sassy
+Joy                           IN PANIC                      Old Shack                     Sassy
+Zahara                        IN PANIC                      Dark Cave                     Afraid of spiders
+Ceciley                       FIGHTS FOR LIFE               Dungeon                       Pretty
+Rozalin                       SAVED                         Office                        Programmer
+Tricia                        BORED                         Abandoned Prison              Pretty
+Allix                         FIGHTS FOR LIFE               Dark Cave                     Will rule the kingdom
+Ursuline                      IN PANIC                      Dark Cave                     Sassy
+Trenna                        SAVED                         Castle                        Likes books
+Loleta                        IN PANIC                      Ancient Ruins                 Likes books
+Winonah                       FIGHTS FOR LIFE               Dark Cave                     Likes books
+Lydia                         SAVED                         Town Hall                     Afraid of spiders
+Freddi                        SLAYED THE DRAGON HERSELF     Pub                           Afraid of spiders
+Carline                       SLAYED THE DRAGON HERSELF     Town Hall                     Will rule the kingdom
+Phaidra                       BORED                         Dungeon                       Pretty
+Malvina                       INJURED                       Abandoned Prison              Programmer
+Quinn                         BORED                         Dungeon                       Sassy
+Ameline                       FIGHTS FOR LIFE               Abandoned Prison              Likes books
+Elane                         IN PANIC                      Abandoned Prison              Sassy
+Katya                         IN PANIC                      Dungeon                       Can cook
+Nedi                          INJURED                       High Mountain                 None
+Regina                        EATEN                         Heaven                        Can cook
+Betta                         EATEN                         Heaven                        Pretty
+Lotti                         INJURED                       Abandoned Prison              Pretty
+Gus                           SAVED                         Castle                        Can cook
+Pooh                          SLAYED THE DRAGON HERSELF     Pub                           Pretty
+Rasla                         EATEN                         Heaven                        Will rule the kingdom
+Kelly                         IN PANIC                      Misty Swamp                   Will rule the kingdom
+Corrinne                      EATEN                         Underworld                    None
+Fanchon                       EATEN                         Heaven                        Programmer
+Ulrica                        IN PANIC                      Old Shack                     Programmer
+Suzie                         SAVED                         Library                       Programmer
+Ardisj                        IN PANIC                      Ancient Ruins                 None
+Jeri                          FIGHTS FOR LIFE               Abandoned Prison              Will rule the kingdom
+Trudey                        FIGHTS FOR LIFE               Dungeon                       Afraid of spiders
+Silvie                        SLAYED THE DRAGON HERSELF     Office                        Can cook
+Clarette                      EATEN                         Heaven                        Afraid of spiders
+Ginelle                       IN PANIC                      Dungeon                       Pretty
+Jerrine                       EATEN                         Heaven                        Pretty
+Odilia                        BORED                         Abandoned Prison              Pretty
+Nelie                         SLAYED THE DRAGON HERSELF     Town Hall                     Likes books
+Arabelle                      IN PANIC                      Ancient Ruins                 Will rule the kingdom
+Ranique                       FIGHTS FOR LIFE               Dungeon                       Will rule the kingdom
+Lucille                       EATEN                         Heaven                        Will rule the kingdom
+Mabelle                       EATEN                         Heaven                        Sassy
+Nolie                         EATEN                         Underworld                    Can cook
+Jade                          INJURED                       Misty Swamp                   Likes books
+Nicol                         FIGHTS FOR LIFE               Ancient Ruins                 Afraid of spiders
+Dorice                        IN PANIC                      Abandoned Prison              Will rule the kingdom
+Fancie                        BORED                         Ancient Ruins                 Sassy
+Emmeline                      BORED                         High Mountain                 Pretty
+Selinda                       IN PANIC                      Old Shack                     Likes books
+Dolly                         INJURED                       Dark Cave                     Will rule the kingdom
+Siobhan                       IN PANIC                      High Mountain                 Sassy
+Corie                         IN PANIC                      Old Shack                     Likes books
+Rosanna                       BORED                         Ancient Ruins                 Pretty
+Lilias                        IN PANIC                      Dungeon                       Afraid of spiders
+Harmonia                      SAVED                         Castle                        Pretty
+Wynn                          FIGHTS FOR LIFE               Misty Swamp                   Sassy
+Lynsey                        IN PANIC                      Dark Cave                     Pretty
+Rina                          SLAYED THE DRAGON HERSELF     Castle                        None
+Brett                         BORED                         Old Shack                     Pretty
+Tony                          FIGHTS FOR LIFE               Dark Cave                     None
+Valenka                       SAVED                         Library                       Sassy
+Sheela                        SAVED                         Library                       Afraid of spiders
+Isa                           FIGHTS FOR LIFE               Ancient Ruins                 Programmer
+Shannen                       IN PANIC                      Dark Cave                     Programmer
+Peggi                         BORED                         Ancient Ruins                 Likes books
+Marie-jeanne                  IN PANIC                      High Mountain                 Can cook
+Kariotta                      FIGHTS FOR LIFE               Old Shack                     Will rule the kingdom
+Aurora                        INJURED                       Old Shack                     None
+Margi                         FIGHTS FOR LIFE               Ancient Ruins                 Likes books
+Neilla                        EATEN                         Heaven                        Can cook
+Waly                          IN PANIC                      High Mountain                 Will rule the kingdom
+Bernetta                      BORED                         Ancient Ruins                 Can cook
+Jandy                         SAVED                         Pub                           None
+Aubrie                        SAVED                         Castle                        Sassy
+Ermina                        INJURED                       Ancient Ruins                 Afraid of spiders
+Melissa                       INJURED                       Dungeon                       Afraid of spiders
+Jilly                         BORED                         Dungeon                       Sassy
+Shaun                         SAVED                         Castle                        Sassy
+Dorian                        IN PANIC                      Abandoned Prison              Pretty
+Linnell                       SLAYED THE DRAGON HERSELF     Pub                           Likes books
+Wendye                        EATEN                         Heaven                        Pretty
+Meridith                      EATEN                         Underworld                    Can cook
+Trude                         FIGHTS FOR LIFE               Ancient Ruins                 Programmer
+Lorita                        EATEN                         Underworld                    Will rule the kingdom
+Ceciley                       EATEN                         Underworld                    Pretty
+Tandy                         SAVED                         Pub                           Can cook
+Vevay                         SLAYED THE DRAGON HERSELF     Castle                        Pretty
+Ginnie                        SLAYED THE DRAGON HERSELF     Library                       Will rule the kingdom
+Clementia                     SLAYED THE DRAGON HERSELF     Pub                           None
+Simone                        SLAYED THE DRAGON HERSELF     Pub                           Pretty
+Samaria                       EATEN                         Underworld                    Afraid of spiders
+Correy                        IN PANIC                      Dark Cave                     Pretty
+Gwenora                       EATEN                         Underworld                    Can cook
+Marie-jeanne                  BORED                         Ancient Ruins                 Programmer
+Albina                        FIGHTS FOR LIFE               Abandoned Prison              Programmer
+Justinn                       INJURED                       Dark Cave                     Sassy
+Catlee                        SAVED                         Office                        Can cook
+Rebbecca                      IN PANIC                      Dark Cave                     Afraid of spiders
+Ada                           EATEN                         Heaven                        Pretty
+Jemmy                         SAVED                         Town Hall                     Likes books
+Fredi                         SAVED                         Castle                        Will rule the kingdom
+Jenny                         SLAYED THE DRAGON HERSELF     Library                       Will rule the kingdom
+Maddi                         INJURED                       Ancient Ruins                 Sassy
+Jobye                         FIGHTS FOR LIFE               Dark Cave                     None
+Kalinda                       SAVED                         Town Hall                     Will rule the kingdom
+Marabel                       BORED                         Abandoned Prison              Sassy
+Blanche                       INJURED                       Misty Swamp                   Likes books
+Maye                          SAVED                         Library                       Programmer
+Bebe                          IN PANIC                      Abandoned Prison              Will rule the kingdom
+Noelle                        BORED                         Abandoned Prison              Afraid of spiders
+Junie                         SAVED                         Office                        Afraid of spiders
+Jo                            BORED                         Ancient Ruins                 Sassy
+Corri                         IN PANIC                      Abandoned Prison              Will rule the kingdom
+Shell                         EATEN                         Heaven                        Likes books
+Carree                        BORED                         Misty Swamp                   Programmer
+Christian                     SLAYED THE DRAGON HERSELF     Pub                           Will rule the kingdom
+Reeva                         IN PANIC                      Ancient Ruins                 Programmer
+Imogen                        SAVED                         Library                       Likes books
+Natalee                       INJURED                       Old Shack                     Likes books
+Tamarah                       SAVED                         Pub                           Pretty
+Blakelee                      FIGHTS FOR LIFE               High Mountain                 Pretty
+Roch                          SAVED                         Pub                           Programmer
+Fayre                         SAVED                         Pub                           Pretty
+Lindsay                       IN PANIC                      Dungeon                       Can cook
+Mattie                        EATEN                         Heaven                        None
+Nert                          FIGHTS FOR LIFE               Dark Cave                     Will rule the kingdom
+Myrta                         INJURED                       Old Shack                     Likes books
+Ilyse                         EATEN                         Heaven                        Likes books
+Lonee                         SLAYED THE DRAGON HERSELF     Pub                           None
+Hedy                          SAVED                         Office                        Afraid of spiders
+Neysa                         SLAYED THE DRAGON HERSELF     Castle                        Pretty
+Nadine                        INJURED                       Abandoned Prison              Pretty
+Waly                          FIGHTS FOR LIFE               Dungeon                       Will rule the kingdom
+Emelyne                       SLAYED THE DRAGON HERSELF     Town Hall                     Sassy
+Jessamyn                      SAVED                         Office                        Can cook
+Sibeal                        EATEN                         Underworld                    Sassy
+Phil                          INJURED                       Misty Swamp                   Will rule the kingdom
+Bev                           BORED                         Misty Swamp                   Sassy
+Lanae                         FIGHTS FOR LIFE               Misty Swamp                   Programmer
+Janeta                        SLAYED THE DRAGON HERSELF     Pub                           Will rule the kingdom
+Fran                          BORED                         Abandoned Prison              Afraid of spiders
+Saree                         FIGHTS FOR LIFE               High Mountain                 Afraid of spiders
+Aleta                         INJURED                       Misty Swamp                   Afraid of spiders
+Lou                           BORED                         Misty Swamp                   Afraid of spiders
+Cherie                        BORED                         Abandoned Prison              Can cook
+Ebba                          SLAYED THE DRAGON HERSELF     Castle                        Programmer
+Gwennie                       IN PANIC                      High Mountain                 Sassy
+Cordy                         EATEN                         Heaven                        Likes books
+Daloris                       FIGHTS FOR LIFE               Abandoned Prison              Will rule the kingdom
+Wynne                         EATEN                         Underworld                    Sassy
+Josee                         BORED                         Dungeon                       None
+Ciel                          FIGHTS FOR LIFE               Dungeon                       Programmer
+Hailee                        FIGHTS FOR LIFE               Ancient Ruins                 Will rule the kingdom
+Tate                          INJURED                       Ancient Ruins                 Can cook
+Charita                       INJURED                       Old Shack                     Afraid of spiders
+Nikoletta                     BORED                         High Mountain                 Sassy
+Linnell                       EATEN                         Underworld                    Can cook
+Alex                          SLAYED THE DRAGON HERSELF     Library                       Will rule the kingdom
+Krystalle                     FIGHTS FOR LIFE               Dungeon                       Pretty
+Clary                         EATEN                         Heaven                        Will rule the kingdom
+Kendra                        INJURED                       Ancient Ruins                 Can cook
+Norah                         SAVED                         Pub                           Sassy
+Paolina                       IN PANIC                      Dark Cave                     None
+Drusy                         IN PANIC                      Old Shack                     Sassy
+Lillis                        IN PANIC                      Dungeon                       Will rule the kingdom
+Jena                          SAVED                         Library                       Can cook
+Arluene                       BORED                         Old Shack                     Likes books
+Inger                         IN PANIC                      Ancient Ruins                 None
+Clarabelle                    INJURED                       Misty Swamp                   Sassy
+Olivette                      BORED                         Ancient Ruins                 None
+Dyane                         INJURED                       Ancient Ruins                 Will rule the kingdom
+Adrianna                      BORED                         High Mountain                 Programmer
+Angil                         EATEN                         Heaven                        Afraid of spiders
+Marena                        SAVED                         Office                        Can cook
+Anstice                       SLAYED THE DRAGON HERSELF     Pub                           Pretty
+Kirby                         BORED                         Misty Swamp                   Afraid of spiders
+Erika                         BORED                         Dark Cave                     Pretty
+Fernandina                    IN PANIC                      High Mountain                 Will rule the kingdom
+Sharity                       BORED                         Old Shack                     Can cook
+Maudie                        SAVED                         Library                       Pretty
+Missie                        FIGHTS FOR LIFE               Abandoned Prison              Can cook
+Clarabelle                    FIGHTS FOR LIFE               Ancient Ruins                 Likes books
+Barbara                       SAVED                         Town Hall                     Afraid of spiders
+Catlee                        FIGHTS FOR LIFE               Old Shack                     Programmer
+Gillan                        INJURED                       Ancient Ruins                 Likes books
+Anthea                        EATEN                         Heaven                        None
+Fernandina                    INJURED                       Abandoned Prison              None
+Kellina                       SLAYED THE DRAGON HERSELF     Pub                           Programmer
+Corrianne                     SLAYED THE DRAGON HERSELF     Town Hall                     None
+Regine                        FIGHTS FOR LIFE               Dark Cave                     None
+Emlynn                        EATEN                         Heaven                        Pretty
+Noreen                        SAVED                         Castle                        Will rule the kingdom
+Ferdinande                    SAVED                         Castle                        Can cook
+Tabbitha                      FIGHTS FOR LIFE               Ancient Ruins                 Sassy
+Katee                         SLAYED THE DRAGON HERSELF     Castle                        Will rule the kingdom
+Phedra                        SLAYED THE DRAGON HERSELF     Library                       Afraid of spiders
+Cynde                         EATEN                         Underworld                    Will rule the kingdom
+Natasha                       INJURED                       Dungeon                       Likes books
+Dorelle                       SAVED                         Office                        Likes books
+Gusella                       SAVED                         Town Hall                     Will rule the kingdom
+Maxine                        BORED                         Dungeon                       None
+Bobina                        EATEN                         Heaven                        Likes books
+Sybilla                       SLAYED THE DRAGON HERSELF     Office                        Afraid of spiders
+Elbertine                     IN PANIC                      Misty Swamp                   Will rule the kingdom
+Vivien                        INJURED                       Old Shack                     Can cook
+Con                           INJURED                       Misty Swamp                   Pretty
+Bell                          FIGHTS FOR LIFE               Ancient Ruins                 None
+Moreen                        SAVED                         Town Hall                     Pretty
+Cherrita                      FIGHTS FOR LIFE               Ancient Ruins                 Sassy
+Sabina                        BORED                         High Mountain                 None
+Jeanette                      INJURED                       Misty Swamp                   Likes books
+Fawne                         FIGHTS FOR LIFE               Misty Swamp                   Programmer
+Therese                       SAVED                         Pub                           None
+Clementine                    EATEN                         Heaven                        Afraid of spiders
+Clarisse                      BORED                         Abandoned Prison              Programmer
+Umeko                         IN PANIC                      Old Shack                     Can cook
+Otha                          SLAYED THE DRAGON HERSELF     Library                       Programmer
+Clotilda                      EATEN                         Underworld                    Pretty
+Enrichetta                    EATEN                         Underworld                    Can cook
+Kirsti                        FIGHTS FOR LIFE               Abandoned Prison              None
+Odelinda                      FIGHTS FOR LIFE               Dungeon                       Pretty
+Emelina                       IN PANIC                      Dark Cave                     Afraid of spiders
+Noemi                         INJURED                       Abandoned Prison              Afraid of spiders
+Jandy                         BORED                         Abandoned Prison              None
+Britte                        BORED                         High Mountain                 None
+Lynnelle                      BORED                         Old Shack                     Pretty
+Ella                          IN PANIC                      Abandoned Prison              Pretty
+Gertrud                       FIGHTS FOR LIFE               Dungeon                       Will rule the kingdom
+Candis                        EATEN                         Heaven                        Programmer
+Shay                          IN PANIC                      Dungeon                       Can cook
+Yelena                        INJURED                       Misty Swamp                   Pretty
