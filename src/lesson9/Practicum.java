@@ -1,4 +1,4 @@
-package urok9;
+package lesson9;
 
 public class Practicum {
 
