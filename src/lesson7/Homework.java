@@ -1,4 +1,4 @@
-package urok7;
+package lesson7;
 
 
 public class Homework {

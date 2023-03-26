@@ -1,4 +1,4 @@
-package urok10;
+package lesson10;
 
 import java.util.Scanner;
 

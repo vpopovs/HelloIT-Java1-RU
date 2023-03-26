@@ -1,6 +1,6 @@
-package urok12;
+package lesson12;
 
-public class Main {
+public class Practicum {
     /*
     Cоздать класс банковского аккаунта.
     Каждый аккаунт должен содержать имя владельца акканунта и первоначальный баланс.
