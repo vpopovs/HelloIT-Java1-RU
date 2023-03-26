@@ -10,6 +10,7 @@ public class Homework {
      * @param numThree третье число
      */
     public static void ascendingOrder(int numOne, int numTwo, int numThree) {
+
     }
 
     /**

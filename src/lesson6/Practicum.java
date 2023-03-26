@@ -7,7 +7,7 @@ public class Practicum {
      * @param word слово, половину которого необходимо найти
      */
     public static void half(String word) {
-        System.out.println(word.substring(0, word.length()/2));
+
     }
 
     /**
@@ -16,7 +16,7 @@ public class Practicum {
      * @param b второе слово
      */
     public static void concatenation(String a, String b) {
-        System.out.println(a.substring(1) + b.substring(1));
+
     }
 
     /**
@@ -24,8 +24,7 @@ public class Practicum {
      * @param str первоначальное слово
      */
     public static void extraEnd(String str) {
-        String lastTwoLetters = str.substring(str.length() - 2);
-        System.out.println(lastTwoLetters + lastTwoLetters + lastTwoLetters);
+
     }
 
     /**
@@ -33,11 +32,7 @@ public class Practicum {
      * @param str первоначальное слово
      */
     public static void doubleChar(String str) {
-        String newStr = "";
-        for (int i = 0; i < str.length(); i++) {
-            newStr = newStr + str.charAt(i) + str.charAt(i);
-        }
-        System.out.println(newStr);
+
     }
 
     /**
@@ -45,14 +40,7 @@ public class Practicum {
      * @param str строка
      */
     public static void countHi(String str) {
-        int countHi = 0;
 
-        for (int i = 0; i < str.length() - 1; i++) {
-            if (str.substring(i, i + 2).toLowerCase().equals("hi")) {
-                countHi++;
-            }
-        }
-        System.out.println(countHi);
     }
 
     public static void main(String[] args) {
