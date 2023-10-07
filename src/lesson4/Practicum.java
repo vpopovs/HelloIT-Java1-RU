@@ -2,13 +2,13 @@ package lesson4;
 
 public class Practicum {
 
-    /**
+/**
      * Создать программу, проверяющую и сообщающую на экран,
      * является ли целое число number чётным либо нечётным.
      * @param number число, которое проверяется на четность
      */
     public static void parity(int number) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -19,7 +19,7 @@ public class Practicum {
      * @param numberThree третье число
      */
     public static void maxNumber(int numberOne, int numberTwo, int numberThree) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -30,7 +30,7 @@ public class Practicum {
      * @param numberTwo второе число
      */
     public static void nearestNumber(int numberOne, int numberTwo) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -38,7 +38,8 @@ public class Practicum {
      * целое число в интервал (25;100) и сообщать результат на экран.
      */
     public static void randomNumber() {
-        int randomNumber = new Random().nextInt((155 - 5) + 1) + 5; // случайное число из отрезка [5; 155]
+        int randomNumber = new Random().nextInt((155 - 5) + 1) + 5; // Случайное число между 5 и 155
+        // Здесь должен быть код программы
     }
 
     public static void main(String[] args) {
