@@ -1,5 +1,7 @@
 package lesson4;
 
+import java.util.Random;
+
 public class Practicum {
 
 /**
