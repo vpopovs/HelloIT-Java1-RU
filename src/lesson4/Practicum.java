@@ -38,7 +38,7 @@ public class Practicum {
      * целое число в интервал (25;100) и сообщать результат на экран.
      */
     public static void randomNumber() {
-
+        int randomNumber = new Random().nextInt((155 - 5) + 1) + 5; // случайное число из отрезка [5; 155]
     }
 
     public static void main(String[] args) {
