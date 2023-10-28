@@ -12,7 +12,7 @@ public class Practicum {
      * @param num число, которое необходимо найти
      */
     public static void findRemove(ArrayList<Integer> list, int num) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -20,7 +20,7 @@ public class Practicum {
      * @param list список
      */
     public static void symmetric(ArrayList<Integer> list) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -28,7 +28,7 @@ public class Practicum {
      * @param list лист
      */
     public static void diffNums(ArrayList<Integer> list) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -37,7 +37,7 @@ public class Practicum {
      * @param list первоначальный лист
      */
     public static void average(ArrayList<Integer> list) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -48,7 +48,7 @@ public class Practicum {
      * @param list первоначальный лист
      */
     public static void divisor(ArrayList<Integer> list) {
-
+        // Здесь должен быть код программы
     }
 
     public static void main(String[] args) {

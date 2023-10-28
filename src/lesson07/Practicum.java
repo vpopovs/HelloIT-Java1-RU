@@ -7,7 +7,7 @@ public class Practicum {
      * @param array массив
      */
     public static void countEvens(int[] array) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -15,7 +15,7 @@ public class Practicum {
      * @param array массив
      */
     public static void no25(int[] array) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -23,7 +23,7 @@ public class Practicum {
      * @param array массив.
      */
     public static void largestSmallestDiff(int[] array) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -31,7 +31,7 @@ public class Practicum {
      * @param array массив
      */
     public static void either12(int[] array) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -39,7 +39,7 @@ public class Practicum {
      * @param array массив
      */
     public static void evenOdd(int[] array) {
-
+        // Здесь должен быть код программы
     }
 
     public static void main(String[] args) {

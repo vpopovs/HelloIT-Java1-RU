@@ -34,7 +34,7 @@ public class Homework {
      * @param personName имя человека, которого необходимо найти
      */
     public static void findInDB(List<String> people, String personName) {
-
+        // Здесь должен быть код программы
     }
 
     public static void main(String[] args) {

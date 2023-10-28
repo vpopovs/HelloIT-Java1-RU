@@ -29,7 +29,7 @@ public class Practicum {
      * @param age возраст
      */
     public static void access(int age) {
-
+        // Здесь должен быть код программы
     }
 
     public static void main(String[] args) {

@@ -8,6 +8,8 @@ public class Practicum {
     Дан файл с принцессами princesses.txt (имя, жизненный статус, место заточения, доп.информация).
     Задание состоит в том, чтобы отсортировать принцесс по жизненному статусу
     и записать в новый файл только тех, которых есть смысл спасать.
+
+    Методы заданы с правильными аргументами и возвратным типом.
      */
 
     /**
@@ -15,6 +17,7 @@ public class Practicum {
      * @return лист с принцессами
      */
     public static ArrayList<String[]> read() {
+        // Здесь должен быть код программы
         return null;
     }
 
@@ -25,6 +28,7 @@ public class Practicum {
      * @return отфильтрованный лист с принцессами
      */
     public static ArrayList<String[]> filterByStatus(ArrayList<String[]> princesses) {
+        // Здесь должен быть код программы
         return null;
     }
 
@@ -35,19 +39,19 @@ public class Practicum {
      * @return отсортированный лист с принцессами
      */
     public static ArrayList<String[]> sortByStatus(ArrayList<String[]> filteredPrincesses) {
+        // Здесь должен быть код программы
         return null;
     }
 
     /**
      * Записать принцесс в новый файл в формате:
-     *  Имя
-     *  Статус
-     *  Место заточения
-     *  Доп информация
-     *  <Пустая строка>
+     * Имя1    Статус1    Место заточения1    Доп информация1    \n
+     * Имя2    Статус2    Место заточения2    Доп информация2    \n
+     * ...
+     * ИмяN    СтатусN    Место заточенияN    Доп информацияN    \n
      */
     public static void write(String fileToWriteName) {
-
+        // Здесь должен быть код программы
     }
 
     public static void main(String[] args) throws Exception {
