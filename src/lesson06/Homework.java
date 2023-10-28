@@ -1,4 +1,4 @@
-package lesson6;
+package lesson06;
 
 public class Homework {
 
@@ -9,7 +9,7 @@ public class Homework {
      * @param b вторая строка
      */
     public static void comboString(String a, String b) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -18,7 +18,7 @@ public class Homework {
      * @param str первоначальная строка
      */
     public static void toStart2(String str) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -27,7 +27,7 @@ public class Homework {
      * @param str первоначальная строка
      */
     public static void withoutStartEnd(String str) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -35,7 +35,7 @@ public class Homework {
      * @param str строка
      */
     public static void carBus(String str) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -45,7 +45,7 @@ public class Homework {
      * @param n количество последних символос строки, которые необходимо повторить столько же раз
      */
     public static void repeatEnd(String str, int n) {
-
+        // Здесь должен быть код программы
     }
 
     public static void main(String[] args) {

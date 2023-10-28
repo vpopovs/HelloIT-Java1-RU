@@ -1,4 +1,4 @@
-package lesson6;
+package lesson06;
 
 public class Practicum {
 
@@ -7,7 +7,7 @@ public class Practicum {
      * @param word слово, половину которого необходимо найти
      */
     public static void half(String word) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -16,7 +16,7 @@ public class Practicum {
      * @param b второе слово
      */
     public static void concatenation(String a, String b) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -24,7 +24,7 @@ public class Practicum {
      * @param str первоначальное слово
      */
     public static void extraEnd(String str) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -32,7 +32,7 @@ public class Practicum {
      * @param str первоначальное слово
      */
     public static void doubleChar(String str) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -40,7 +40,7 @@ public class Practicum {
      * @param str строка
      */
     public static void countHi(String str) {
-
+        // Здесь должен быть код программы
     }
 
     public static void main(String[] args) {

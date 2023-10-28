@@ -1,4 +1,4 @@
-package lesson5;
+package lesson05;
 
 public class Practicum {
 
@@ -6,35 +6,35 @@ public class Practicum {
      * Вывести на экран числа от 1 до 6, используя for и while операторы.
      */
     public static void oneToSix() {
-
+        // Здесь должен быть код программы
     }
 
     /**
      * Вывести на экран таблицу умножения на 5.
      */
     public static void multiplyByFive() {
-
+        // Здесь должен быть код программы
     }
 
     /**
      * Вывести на экран сумму чисел от 1 до 5.
      */
     public static void sumOneToFive() {
-
+        // Здесь должен быть код программы
     }
 
     /**
      * Вывести на экран вот такую последовательность: 8 15 22 29 36 43 50 57 64 71 78 85 92, используя for и while операторы.
      */
     public static void row() {
-
+        // Здесь должен быть код программы
     }
 
     /**
      * Вывести на экран квадраты четных чисел от 10 до 20.
      */
     public static void square() {
-
+        // Здесь должен быть код программы
     }
 
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package lesson5;
+package lesson05;
 
 public class Homework {
 
@@ -6,7 +6,7 @@ public class Homework {
      * Вывести на экран числа от 6 до 1, используя for и while операторы.
      */
     public static void sixToOne() {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -14,7 +14,7 @@ public class Homework {
      * Не выводить числа, идущие после числа 15.
      */
     public static void oddNumbers() {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -22,21 +22,21 @@ public class Homework {
      * Пропустите число 14.
      */
     public static void evenNumbers() {
-
+        // Здесь должен быть код программы
     }
 
     /**
      * Вывести на экран такую последовательность чисел: 1 2 4 8 16 32 64 128 256 512.
      */
     public static void row() {
-
+        // Здесь должен быть код программы
     }
 
     /**
      * Найти сумму чисел в интервале от 1 до 30, которые делятся на 5 или на 7.
      */
     public static void sum() {
-
+        // Здесь должен быть код программы
     }
 
     public static void main(String[] args) {
