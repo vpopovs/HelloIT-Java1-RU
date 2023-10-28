@@ -47,7 +47,7 @@ public class Practicum {
      * Все числа разные.
      * @param list первоначальный лист
      */
-    public static void divisor(ArrayList<Integer> list) {
+    public static void dividends(ArrayList<Integer> list) {
         // Здесь должен быть код программы
     }
 
@@ -77,9 +77,9 @@ public class Practicum {
 
         System.out.println("----------");
 
-        divisor(new ArrayList<>(Arrays.asList(2, 5, 9, 8)));        // [8]
-        divisor(new ArrayList<>(Arrays.asList(7, 19, 13, 8, 4)));   // [8]
-        divisor(new ArrayList<>(Arrays.asList(9, 71, 5, 6, 21)));   // []
+        dividends(new ArrayList<>(Arrays.asList(2, 5, 9, 8)));        // [8]
+        dividends(new ArrayList<>(Arrays.asList(7, 19, 13, 8, 4)));   // [8]
+        dividends(new ArrayList<>(Arrays.asList(9, 71, 5, 6, 21)));   // []
 
     }
 
