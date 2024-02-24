@@ -10,7 +10,7 @@ public class Homework {
      * @param numThree третье число
      */
     public static void ascendingOrder(int numOne, int numTwo, int numThree) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -18,7 +18,7 @@ public class Homework {
      * @param minute минута часа
      */
     public static void quarterOfAnHour(int minute) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -28,7 +28,7 @@ public class Homework {
      * @param c третья сторона треуголника
      */
     public static void triangle(int a, int b, int c) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -38,7 +38,7 @@ public class Homework {
      * @param a длина стороны квадрата
      */
     public static void circleInSquare(double r, double a) {
-
+        // Здесь должен быть код программы
     }
 
     public static void main(String[] args) {
