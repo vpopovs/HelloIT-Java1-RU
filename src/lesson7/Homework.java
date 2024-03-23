@@ -8,7 +8,7 @@ public class Homework {
      * @param array массив
      */
     public static void has99(int[] array) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -16,7 +16,7 @@ public class Homework {
      * @param array массив
      */
     public static void sumPositive(int[] array) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -25,7 +25,7 @@ public class Homework {
      * @param array первоначальный массив
      */
     public static void reverseArray(int[] array) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -33,14 +33,14 @@ public class Homework {
      * @param array массив
      */
     public static void changeMaxMin(int[] array) {
-
+        // Здесь должен быть код программы
     }
 
     /**
      * Создать любой двумерный массив и вывести его в консоль в виде таблички (см. презентацию).
      */
     public static void twoDimensionalArray() {
-
+        // Здесь должен быть код программы
     }
 
     public static void main(String[] args) {
