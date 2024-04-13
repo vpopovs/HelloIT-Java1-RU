@@ -15,6 +15,7 @@ public class Practicum {
      * @return лист с принцессами
      */
     public static ArrayList<String[]> read() {
+        // Здесь должен быть код программы
         return null;
     }
 
@@ -25,6 +26,7 @@ public class Practicum {
      * @return отфильтрованный лист с принцессами
      */
     public static ArrayList<String[]> filterByStatus(ArrayList<String[]> princesses) {
+        // Здесь должен быть код программы
         return null;
     }
 
@@ -35,6 +37,7 @@ public class Practicum {
      * @return отсортированный лист с принцессами
      */
     public static ArrayList<String[]> sortByStatus(ArrayList<String[]> filteredPrincesses) {
+        // Здесь должен быть код программы
         return null;
     }
 
@@ -47,7 +50,7 @@ public class Practicum {
      *  <Пустая строка>
      */
     public static void write(String fileToWriteName) {
-
+        // Здесь должен быть код программы
     }
 
     public static void main(String[] args) throws Exception {
