@@ -10,7 +10,7 @@ public class Homework {
      * @param list лист
      */
     public static void oddIndexSum(ArrayList<Integer> list) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -19,7 +19,7 @@ public class Homework {
      * @param list лист
      */
     public static void changeOrder(ArrayList<Integer> list) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -28,7 +28,7 @@ public class Homework {
      * @param list лист
      */
     public static void shuffle(ArrayList<Integer> list) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -36,7 +36,7 @@ public class Homework {
      * @param list лист
      */
     public static void sumWithoutMaxMin(ArrayList<Integer> list) {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -44,7 +44,7 @@ public class Homework {
      * @param list лист
      */
     public static void ascOrder(ArrayList<Integer> list) {
-
+        // Здесь должен быть код программы
     }
 
     public static void main(String[] args) {
