@@ -7,7 +7,7 @@ public class Practicum {
      * Найти из них минимальное и вывести на экран.
      */
     public static void minNum() {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -15,7 +15,7 @@ public class Practicum {
      * Проверить, есть ли в слове повторяющиеся буквы.
      */
     public static void repeatedLetters() {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -23,7 +23,7 @@ public class Practicum {
      * Проверить, является ли слово палиндромом.
      */
     public static void palindrome() {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -32,7 +32,7 @@ public class Practicum {
      * Минимальное и максимальное число в сумму не включать.
      */
     public static void betweenMinMax() {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -40,7 +40,7 @@ public class Practicum {
      * Отсортировать их в порядке возрастания.
      */
     public static void sort() {
-
+        // Здесь должен быть код программы
     }
 
     public static void main(String[] args) {
