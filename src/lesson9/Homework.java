@@ -8,7 +8,7 @@ public class Homework {
      * Вывести на экран получившуюся фразу.
      */
     public static void reverseWords() {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -16,7 +16,7 @@ public class Homework {
      * Перевернуть введенное предложение и вывести результат экран.
      */
     public static void reversePhrase() {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -24,7 +24,7 @@ public class Homework {
      * Найти и вывести на экран сумму всех цифр введенного числа.
      */
     public static void numSum() {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -32,7 +32,7 @@ public class Homework {
      * Вывести на экран те слова, длина которых меньше средней.
      */
     public static void averageLength() {
-
+        // Здесь должен быть код программы
     }
 
     /**
@@ -41,7 +41,7 @@ public class Homework {
      * Если пользователь угадал число, вывести на экран соответствующее сообщение.
      */
     public static void guessNum() {
-
+        // Здесь должен быть код программы
     }
 
     public static void main(String[] args) {
