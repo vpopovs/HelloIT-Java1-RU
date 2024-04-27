@@ -41,6 +41,7 @@ public class Homework {
      * Если пользователь угадал число, вывести на экран соответствующее сообщение.
      */
     public static void guessNum() {
+        int randomNumber = new Random().nextInt(101); // случайное число от 0 до 100
         // Здесь должен быть код программы
     }
 
